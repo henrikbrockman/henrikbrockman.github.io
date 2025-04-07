@@ -56,7 +56,7 @@ Engineering Fields I have an interest in:
 - Digital Systems and Signals (IP)
 - Circuit Theory I
 - Circuit Theory II (IP)
-- 
+
 ##### Computer Science
 
 * C++ Programming I and II
