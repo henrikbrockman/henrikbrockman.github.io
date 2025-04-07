@@ -50,10 +50,10 @@ Engineering Fields I have an interest in:
 
 ##### Electrical Engineering
 
-- Engineering Electromagnetics
-- Engineering Physics (IP)
+- Electromagnetics
+- Semiconductor Physics (IP)
 - Analog Systems and Signals
-- Digital Signal Processing (IP)
+- Digital Systems and Signals (IP)
 - Circuit Theory I
 - Circuit Theory II (IP)
 - 
@@ -71,6 +71,5 @@ Engineering Fields I have an interest in:
 
 - Differential Equations
 - Linear Algebra
-- Multivariable Calculus
 
 *IP: I'll be finished with this course by June 13, 2025*
