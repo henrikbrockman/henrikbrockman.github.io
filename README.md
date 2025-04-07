@@ -48,20 +48,27 @@ Engineering Fields I have an interest in:
 
 #### Courses      
 
-###### Electrical Engineering
+##### Electrical Engineering
+
 - Engineering Electromagnetics
 - Engineering Physics (IP)
 - Analog Systems and Signals
 - Digital Signal Processing (IP)
 - Circuit Theory I
 - Circuit Theory II (IP)
-###### Computer Science
+- 
+##### Computer Science
+
 - C++ Programming I and II
 - Design of Digital Logic Systems (IP)
-###### Mechanical Engineering
+- 
+##### Mechanical Engineering
+
 - Statics and Strength of Materials
 - Computer Aided Design and Drafting
-###### Math
+- 
+##### Math
+
 - Differential Equations
 - Linear Algebra
 - Multivariable Calculus
