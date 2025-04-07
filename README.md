@@ -59,17 +59,17 @@ Engineering Fields I have an interest in:
 - 
 ##### Computer Science
 
-- C++ Programming I and II
-- Design of Digital Logic Systems (IP)
-- 
+* C++ Programming I and II
+* Design of Digital Logic Systems (IP)
+
 ##### Mechanical Engineering
 
 - Statics and Strength of Materials
 - Computer Aided Design and Drafting
-- 
+
 ##### Math
 
-- Differential Equations
-- Linear Algebra
+* Differential Equations
+* Linear Algebra
 
 *IP: I'll be finished with this course by June 13, 2025*
